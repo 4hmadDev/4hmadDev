@@ -26,7 +26,7 @@
 ---
 
 ### 🚀 Featured Project
-**[Hospital Inventory Management System](https://github.com/4hmadDev/Hospital-Inventory-System)** — a Python app for managing hospital medicine stock with expiry tracking and low-stock alerts.
+**[Hospital Inventory Management System](https://github.com/4hmadDev/Hospital-Inventory-Management)** — a Python app for managing hospital medicine stock with expiry tracking and low-stock alerts.
 
 ---
 
