@@ -26,7 +26,19 @@
 ---
 
 ### 🚀 Featured Project
-**[Hospital Inventory Management System](https://github.com/4hmadDev/Hospital-Inventory-Management)** — a Python app for managing hospital medicine stock with expiry tracking and low-stock alerts.
+**### 🚀 Featured Projects
+
+- **[Hospital Inventory Management System](https://github.com/4hmadDev/Hospital-Inventory-Management)**  
+  Python application for managing hospital medicine inventory with expiry-date tracking, stock updates, and low-stock alerts.
+
+- **[Gym Membership & Fitness Planner](https://github.com/4hmadDev/Gym-Membership-Fitness-Planner)**  
+  Python-based fitness management system featuring membership registration, login authentication, diet plans, and workout recommendations.
+
+- **[Shopping System](https://github.com/4hmadDev/Shopping-System)**  
+  Command-line shopping application with product selection, inventory management, billing, discounts, and order confirmation.
+
+- **[Smart Electricity Bill Calculator](https://github.com/4hmadDev/Smart-Electricity-Bill-Calculator)**  
+  Python project that calculates electricity bills using consumption slabs, tax rates, and automated bill generation.
 
 ---
 
