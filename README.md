@@ -9,24 +9,27 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science student at **University of Central Punjab**
-- 🤖 Focused on **Artificial Intelligence**, **Machine Learning**, and **Python development**
+- 🤖 Focused on **Artificial Intelligence**, **Machine Learning**, and **Python Development**
 - 💼 AI Intern @ **Arfa Karim Technology Incubator**, working on real-world AI/ML projects
-- 🎯 Goal: to become a Machine Learning Engineer and contribute to AI solutions that solve meaningful problems
-- 📈 Actively sharpening skills through hands-on projects and Kaggle practice
+- 🎯 Goal: To become a Machine Learning Engineer and build AI solutions that solve real-world problems
+- 📈 Continuously improving through hands-on projects, Kaggle practice, and self-learning
 
 ---
 
 ### 🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 🚀 Featured Project
-**### 🚀 Featured Projects
+### 🚀 Featured Projects
 
 - **[Hospital Inventory Management System](https://github.com/4hmadDev/Hospital-Inventory-Management)**  
   Python application for managing hospital medicine inventory with expiry-date tracking, stock updates, and low-stock alerts.
@@ -42,9 +45,12 @@
 
 ---
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadarfeen/)
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azaanarfeen/)
 
 ---
 
-<p align="center"><i>Learning by building, sharing, and continuously improving.</i></p>
+<p align="center">
+<i>Learning by building, sharing, and continuously improving.</i>
+</p>
