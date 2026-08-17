@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 - 🎓 Computer Science student at **University of Central Punjab**
 - 🤖 Focused on **Artificial Intelligence**, **Machine Learning**, and **Python Development**
-- 💼 AI Intern @ **Arfa Karim Technology Incubator**, working on real-world AI/ML projects
+- 💼 AI Trainee @ **Arfa Karim Technology Incubator**, working on real-world AI/ML projects
 - 🎯 Goal: To become a Machine Learning Engineer and build AI solutions that solve real-world problems
 - 📈 Continuously improving through hands-on projects, Kaggle practice, and self-learning
 
